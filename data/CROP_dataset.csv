@@ -1,0 +1,705 @@
+﻿Crop,Season,Year ,Production
+Rice,Kharif,2013-01-01,914.97
+Rice,Kharif,2014-01-01,913.92
+Rice,Kharif,2015-01-01,914.13
+Rice,Kharif,2016-01-01,963.03
+Rice,Kharif,2017-01-01,971.35
+Rice,Kharif,2018-01-01,1020.4
+Rice,Kharif,2019-01-01,1022.77
+Rice,Kharif,2020-01-01,1052.08
+Rice,Kharif,2021-01-01,1110.01
+Rice,Kharif,2022-01-01,1105.12
+Rice,Kharif,2023-01-01,1132.59
+Rice,Rabi,2013-01-01,151.49
+Rice,Rabi,2014-01-01,140.91
+Rice,Rabi,2015-01-01,129.95
+Rice,Rabi,2016-01-01,133.96
+Rice,Rabi,2017-01-01,156.22
+Rice,Rabi,2018-01-01,144.38
+Rice,Rabi,2019-01-01,165.94
+Rice,Rabi,2020-01-01,191.6
+Rice,Rabi,2021-01-01,184.71
+Rice,Rabi,2022-01-01,150.04
+Rice,Rabi,2023-01-01,146.01
+Rice,Summer,2013-01-01,0
+Rice,Summer,2014-01-01,0
+Rice,Summer,2015-01-01,0
+Rice,Summer,2016-01-01,0
+Rice,Summer,2017-01-01,0
+Rice,Summer,2018-01-01,0
+Rice,Summer,2019-01-01,0
+Rice,Summer,2020-01-01,0
+Rice,Summer,2021-01-01,0
+Rice,Summer,2022-01-01,102.4
+Rice,Summer,2023-01-01,99.65
+Wheat,Rabi,2013-01-01,958.5
+Wheat,Rabi,2014-01-01,865.27
+Wheat,Rabi,2015-01-01,922.88
+Wheat,Rabi,2016-01-01,985.1
+Wheat,Rabi,2017-01-01,998.7
+Wheat,Rabi,2018-01-01,1035.96
+Wheat,Rabi,2019-01-01,1078.61
+Wheat,Rabi,2020-01-01,1095.86
+Wheat,Rabi,2021-01-01,1077.42
+Wheat,Rabi,2022-01-01,1105.54
+Wheat,Rabi,2023-01-01,1132.92
+Maize,Kharif,2013-01-01,171.45
+Maize,Kharif,2014-01-01,170.14
+Maize,Kharif,2015-01-01,160.53
+Maize,Kharif,2016-01-01,189.19
+Maize,Kharif,2017-01-01,201.18
+Maize,Kharif,2018-01-01,194.14
+Maize,Kharif,2019-01-01,194.29
+Maize,Kharif,2020-01-01,215.55
+Maize,Kharif,2021-01-01,226.81
+Maize,Kharif,2022-01-01,236.74
+Maize,Kharif,2023-01-01,222.45
+Maize,Rabi,2013-01-01,71.14
+Maize,Rabi,2014-01-01,71.59
+Maize,Rabi,2015-01-01,65.14
+Maize,Rabi,2016-01-01,69.81
+Maize,Rabi,2017-01-01,86.34
+Maize,Rabi,2018-01-01,83.02
+Maize,Rabi,2019-01-01,93.37
+Maize,Rabi,2020-01-01,100.92
+Maize,Rabi,2021-01-01,110.49
+Maize,Rabi,2022-01-01,116.9
+Maize,Rabi,2023-01-01,120.28
+Maize,Summer,2013-01-01,0
+Maize,Summer,2014-01-01,0
+Maize,Summer,2015-01-01,0
+Maize,Summer,2016-01-01,0
+Maize,Summer,2017-01-01,0
+Maize,Summer,2018-01-01,0
+Maize,Summer,2019-01-01,0
+Maize,Summer,2020-01-01,0
+Maize,Summer,2021-01-01,0
+Maize,Summer,2022-01-01,27.21
+Maize,Summer,2023-01-01,33.92
+Barley,Rabi,2013-01-01,18.31
+Barley,Rabi,2014-01-01,16.13
+Barley,Rabi,2015-01-01,14.38
+Barley,Rabi,2016-01-01,17.47
+Barley,Rabi,2017-01-01,17.81
+Barley,Rabi,2018-01-01,16.33
+Barley,Rabi,2019-01-01,17.22
+Barley,Rabi,2020-01-01,16.56
+Barley,Rabi,2021-01-01,13.71
+Barley,Rabi,2022-01-01,19.13
+Barley,Rabi,2023-01-01,16.99
+Jowar,Kharif,2013-01-01,23.93
+Jowar,Kharif,2014-01-01,23
+Jowar,Kharif,2015-01-01,18.16
+Jowar,Kharif,2016-01-01,19.64
+Jowar,Kharif,2017-01-01,22.74
+Jowar,Kharif,2018-01-01,17.35
+Jowar,Kharif,2019-01-01,16.97
+Jowar,Kharif,2020-01-01,19.86
+Jowar,Kharif,2021-01-01,15.98
+Jowar,Kharif,2022-01-01,14.8
+Jowar,Kharif,2023-01-01,15.09
+Jowar,Rabi,2013-01-01,31.49
+Jowar,Rabi,2014-01-01,31.45
+Jowar,Rabi,2015-01-01,24.22
+Jowar,Rabi,2016-01-01,26.04
+Jowar,Rabi,2017-01-01,25.3
+Jowar,Rabi,2018-01-01,17.4
+Jowar,Rabi,2019-01-01,30.75
+Jowar,Rabi,2020-01-01,28.26
+Jowar,Rabi,2021-01-01,25.52
+Jowar,Rabi,2022-01-01,23.22
+Jowar,Rabi,2023-01-01,31.89
+Jowar,Summer,2013-01-01,0
+Jowar,Summer,2014-01-01,0
+Jowar,Summer,2015-01-01,0
+Jowar,Summer,2016-01-01,0
+Jowar,Summer,2017-01-01,0
+Jowar,Summer,2018-01-01,0
+Jowar,Summer,2019-01-01,0
+Jowar,Summer,2020-01-01,0
+Jowar,Summer,2021-01-01,0
+Jowar,Summer,2022-01-01,0.13
+Jowar,Summer,2023-01-01,0.4
+Bajra,Kharif,2013-01-01,77.09
+Bajra,Kharif,2014-01-01,91.84
+Bajra,Kharif,2015-01-01,80.67
+Bajra,Kharif,2016-01-01,97.3
+Bajra,Kharif,2017-01-01,92.09
+Bajra,Kharif,2018-01-01,86.64
+Bajra,Kharif,2019-01-01,103.63
+Bajra,Kharif,2020-01-01,108.63
+Bajra,Kharif,2021-01-01,97.81
+Bajra,Kharif,2022-01-01,103.49
+Bajra,Kharif,2023-01-01,96.63
+Bajra,Summer,2013-01-01,0
+Bajra,Summer,2014-01-01,0
+Bajra,Summer,2015-01-01,0
+Bajra,Summer,2016-01-01,0
+Bajra,Summer,2017-01-01,0
+Bajra,Summer,2018-01-01,0
+Bajra,Summer,2019-01-01,0
+Bajra,Summer,2020-01-01,0
+Bajra,Summer,2021-01-01,0
+Bajra,Summer,2022-01-01,10.82
+Bajra,Summer,2023-01-01,10.53
+Ragi,Kharif,2013-01-01,19.83
+Ragi,Kharif,2014-01-01,20.61
+Ragi,Kharif,2015-01-01,18.22
+Ragi,Kharif,2016-01-01,13.85
+Ragi,Kharif,2017-01-01,19.85
+Ragi,Kharif,2018-01-01,12.39
+Ragi,Kharif,2019-01-01,17.55
+Ragi,Kharif,2020-01-01,19.98
+Ragi,Kharif,2021-01-01,17.01
+Ragi,Kharif,2022-01-01,16.91
+Ragi,Kharif,2023-01-01,16.7
+Small Millets,Kharif,2013-01-01,4.3
+Small Millets,Kharif,2014-01-01,3.86
+Small Millets,Kharif,2015-01-01,3.91
+Small Millets,Kharif,2016-01-01,4.42
+Small Millets,Kharif,2017-01-01,4.39
+Small Millets,Kharif,2018-01-01,3.33
+Small Millets,Kharif,2019-01-01,3.71
+Small Millets,Kharif,2020-01-01,3.47
+Small Millets,Kharif,2021-01-01,3.67
+Small Millets,Kharif,2022-01-01,3.84
+Small Millets,Kharif,2023-01-01,4.49
+Shree Anna /Nutri Cereals,Kharif,2013-01-01,125.15
+Shree Anna /Nutri Cereals,Kharif,2014-01-01,139.31
+Shree Anna /Nutri Cereals,Kharif,2015-01-01,120.96
+Shree Anna /Nutri Cereals,Kharif,2016-01-01,135.21
+Shree Anna /Nutri Cereals,Kharif,2017-01-01,139.07
+Shree Anna /Nutri Cereals,Kharif,2018-01-01,119.71
+Shree Anna /Nutri Cereals,Kharif,2019-01-01,141.85
+Shree Anna /Nutri Cereals,Kharif,2020-01-01,151.95
+Shree Anna /Nutri Cereals,Kharif,2021-01-01,134.47
+Shree Anna /Nutri Cereals,Kharif,2022-01-01,139.04
+Shree Anna /Nutri Cereals,Kharif,2023-01-01,132.9
+Shree Anna /Nutri Cereals,Rabi,2013-01-01,31.49
+Shree Anna /Nutri Cereals,Rabi,2014-01-01,31.45
+Shree Anna /Nutri Cereals,Rabi,2015-01-01,24.22
+Shree Anna /Nutri Cereals,Rabi,2016-01-01,26.04
+Shree Anna /Nutri Cereals,Rabi,2017-01-01,25.3
+Shree Anna /Nutri Cereals,Rabi,2018-01-01,17.4
+Shree Anna /Nutri Cereals,Rabi,2019-01-01,30.75
+Shree Anna /Nutri Cereals,Rabi,2020-01-01,28.26
+Shree Anna /Nutri Cereals,Rabi,2021-01-01,25.52
+Shree Anna /Nutri Cereals,Rabi,2022-01-01,23.22
+Shree Anna /Nutri Cereals,Rabi,2023-01-01,31.89
+Shree Anna /Nutri Cereals,Summer,2013-01-01,0
+Shree Anna /Nutri Cereals,Summer,2014-01-01,0
+Shree Anna /Nutri Cereals,Summer,2015-01-01,0
+Shree Anna /Nutri Cereals,Summer,2016-01-01,0
+Shree Anna /Nutri Cereals,Summer,2017-01-01,0
+Shree Anna /Nutri Cereals,Summer,2018-01-01,0
+Shree Anna /Nutri Cereals,Summer,2019-01-01,0
+Shree Anna /Nutri Cereals,Summer,2020-01-01,0
+Shree Anna /Nutri Cereals,Summer,2021-01-01,0
+Shree Anna /Nutri Cereals,Summer,2022-01-01,10.95
+Shree Anna /Nutri Cereals,Summer,2023-01-01,10.93
+Nutri/Coarse Cereals,Kharif,2013-01-01,296.6
+Nutri/Coarse Cereals,Kharif,2014-01-01,309.45
+Nutri/Coarse Cereals,Kharif,2015-01-01,281.49
+Nutri/Coarse Cereals,Kharif,2016-01-01,324.4
+Nutri/Coarse Cereals,Kharif,2017-01-01,340.25
+Nutri/Coarse Cereals,Kharif,2018-01-01,313.84
+Nutri/Coarse Cereals,Kharif,2019-01-01,336.15
+Nutri/Coarse Cereals,Kharif,2020-01-01,367.5
+Nutri/Coarse Cereals,Kharif,2021-01-01,361.28
+Nutri/Coarse Cereals,Kharif,2022-01-01,375.78
+Nutri/Coarse Cereals,Kharif,2023-01-01,355.35
+Nutri/Coarse Cereals,Rabi,2013-01-01,120.94
+Nutri/Coarse Cereals,Rabi,2014-01-01,119.17
+Nutri/Coarse Cereals,Rabi,2015-01-01,103.74
+Nutri/Coarse Cereals,Rabi,2016-01-01,113.32
+Nutri/Coarse Cereals,Rabi,2017-01-01,129.45
+Nutri/Coarse Cereals,Rabi,2018-01-01,116.75
+Nutri/Coarse Cereals,Rabi,2019-01-01,141.34
+Nutri/Coarse Cereals,Rabi,2020-01-01,145.74
+Nutri/Coarse Cereals,Rabi,2021-01-01,149.73
+Nutri/Coarse Cereals,Rabi,2022-01-01,159.25
+Nutri/Coarse Cereals,Rabi,2023-01-01,169.16
+Nutri/Coarse Cereals,Summer,2013-01-01,0
+Nutri/Coarse Cereals,Summer,2014-01-01,0
+Nutri/Coarse Cereals,Summer,2015-01-01,0
+Nutri/Coarse Cereals,Summer,2016-01-01,0
+Nutri/Coarse Cereals,Summer,2017-01-01,0
+Nutri/Coarse Cereals,Summer,2018-01-01,0
+Nutri/Coarse Cereals,Summer,2019-01-01,0
+Nutri/Coarse Cereals,Summer,2020-01-01,0
+Nutri/Coarse Cereals,Summer,2021-01-01,0
+Nutri/Coarse Cereals,Summer,2022-01-01,38.17
+Nutri/Coarse Cereals,Summer,2023-01-01,44.85
+Cereals,Kharif,2013-01-01,1211.57
+Cereals,Kharif,2014-01-01,1223.36
+Cereals,Kharif,2015-01-01,1195.62
+Cereals,Kharif,2016-01-01,1287.43
+Cereals,Kharif,2017-01-01,1311.6
+Cereals,Kharif,2018-01-01,1334.24
+Cereals,Kharif,2019-01-01,1358.91
+Cereals,Kharif,2020-01-01,1419.58
+Cereals,Kharif,2021-01-01,1471.29
+Cereals,Kharif,2022-01-01,1480.9
+Cereals,Kharif,2023-01-01,1487.94
+Cereals,Rabi,2013-01-01,1230.93
+Cereals,Rabi,2014-01-01,1125.34
+Cereals,Rabi,2015-01-01,1156.56
+Cereals,Rabi,2016-01-01,1232.38
+Cereals,Rabi,2017-01-01,1284.37
+Cereals,Rabi,2018-01-01,1297.09
+Cereals,Rabi,2019-01-01,1385.88
+Cereals,Rabi,2020-01-01,1433.21
+Cereals,Rabi,2021-01-01,1411.85
+Cereals,Rabi,2022-01-01,1414.82
+Cereals,Rabi,2023-01-01,1448.09
+Cereals,Summer,2013-01-01,0
+Cereals,Summer,2014-01-01,0
+Cereals,Summer,2015-01-01,0
+Cereals,Summer,2016-01-01,0
+Cereals,Summer,2017-01-01,0
+Cereals,Summer,2018-01-01,0
+Cereals,Summer,2019-01-01,0
+Cereals,Summer,2020-01-01,0
+Cereals,Summer,2021-01-01,0
+Cereals,Summer,2022-01-01,140.56
+Cereals,Summer,2023-01-01,144.5
+Tur,Kharif,2013-01-01,31.74
+Tur,Kharif,2014-01-01,28.07
+Tur,Kharif,2015-01-01,25.61
+Tur,Kharif,2016-01-01,48.73
+Tur,Kharif,2017-01-01,42.9
+Tur,Kharif,2018-01-01,33.15
+Tur,Kharif,2019-01-01,38.92
+Tur,Kharif,2020-01-01,43.16
+Tur,Kharif,2021-01-01,42.2
+Tur,Kharif,2022-01-01,33.12
+Tur,Kharif,2023-01-01,34.17
+Gram,Rabi,2013-01-01,95.26
+Gram,Rabi,2014-01-01,73.32
+Gram,Rabi,2015-01-01,70.58
+Gram,Rabi,2016-01-01,93.78
+Gram,Rabi,2017-01-01,113.79
+Gram,Rabi,2018-01-01,99.38
+Gram,Rabi,2019-01-01,110.78
+Gram,Rabi,2020-01-01,119.11
+Gram,Rabi,2021-01-01,135.44
+Gram,Rabi,2022-01-01,122.67
+Gram,Rabi,2023-01-01,110.39
+Urad,Kharif,2013-01-01,11.49
+Urad,Kharif,2014-01-01,12.81
+Urad,Kharif,2015-01-01,12.5
+Urad,Kharif,2016-01-01,21.76
+Urad,Kharif,2017-01-01,27.51
+Urad,Kharif,2018-01-01,23.63
+Urad,Kharif,2019-01-01,13.3
+Urad,Kharif,2020-01-01,15.07
+Urad,Kharif,2021-01-01,18.65
+Urad,Kharif,2022-01-01,17.68
+Urad,Kharif,2023-01-01,16.04
+Urad,Rabi,2013-01-01,5.5
+Urad,Rabi,2014-01-01,6.79
+Urad,Rabi,2015-01-01,6.96
+Urad,Rabi,2016-01-01,6.55
+Urad,Rabi,2017-01-01,7.41
+Urad,Rabi,2018-01-01,6.97
+Urad,Rabi,2019-01-01,7.52
+Urad,Rabi,2020-01-01,7.23
+Urad,Rabi,2021-01-01,9.11
+Urad,Rabi,2022-01-01,6.33
+Urad,Rabi,2023-01-01,4.87
+Urad,Summer,2013-01-01,0
+Urad,Summer,2014-01-01,0
+Urad,Summer,2015-01-01,0
+Urad,Summer,2016-01-01,0
+Urad,Summer,2017-01-01,0
+Urad,Summer,2018-01-01,0
+Urad,Summer,2019-01-01,0
+Urad,Summer,2020-01-01,0
+Urad,Summer,2021-01-01,0
+Urad,Summer,2022-01-01,2.3
+Urad,Summer,2023-01-01,2.28
+Moong,Kharif,2013-01-01,9.14
+Moong,Kharif,2014-01-01,7.94
+Moong,Kharif,2015-01-01,10
+Moong,Kharif,2016-01-01,16.43
+Moong,Kharif,2017-01-01,14.33
+Moong,Kharif,2018-01-01,17.84
+Moong,Kharif,2019-01-01,18.26
+Moong,Kharif,2020-01-01,19.96
+Moong,Kharif,2021-01-01,14.8
+Moong,Kharif,2022-01-01,17.18
+Moong,Kharif,2023-01-01,11.54
+Moong,Rabi,2013-01-01,5.41
+Moong,Rabi,2014-01-01,5.81
+Moong,Rabi,2015-01-01,5.93
+Moong,Rabi,2016-01-01,5.22
+Moong,Rabi,2017-01-01,5.9
+Moong,Rabi,2018-01-01,6.71
+Moong,Rabi,2019-01-01,6.83
+Moong,Rabi,2020-01-01,10.89
+Moong,Rabi,2021-01-01,16.86
+Moong,Rabi,2022-01-01,1.1
+Moong,Rabi,2023-01-01,1.01
+Moong,Summer,2013-01-01,0
+Moong,Summer,2014-01-01,0
+Moong,Summer,2015-01-01,0
+Moong,Summer,2016-01-01,0
+Moong,Summer,2017-01-01,0
+Moong,Summer,2018-01-01,0
+Moong,Summer,2019-01-01,0
+Moong,Summer,2020-01-01,0
+Moong,Summer,2021-01-01,0
+Moong,Summer,2022-01-01,18.48
+Moong,Summer,2023-01-01,18.47
+Lentil,Rabi,2013-01-01,10.17
+Lentil,Rabi,2014-01-01,10.35
+Lentil,Rabi,2015-01-01,9.76
+Lentil,Rabi,2016-01-01,12.24
+Lentil,Rabi,2017-01-01,16.22
+Lentil,Rabi,2018-01-01,12.28
+Lentil,Rabi,2019-01-01,11.03
+Lentil,Rabi,2020-01-01,14.94
+Lentil,Rabi,2021-01-01,12.69
+Lentil,Rabi,2022-01-01,15.59
+Lentil,Rabi,2023-01-01,17.91
+Other Pulses,Kharif,2013-01-01,7.58
+Other Pulses,Kharif,2014-01-01,8.48
+Other Pulses,Kharif,2015-01-01,7.2
+Other Pulses,Kharif,2016-01-01,8.89
+Other Pulses,Kharif,2017-01-01,8.31
+Other Pulses,Kharif,2018-01-01,6.29
+Other Pulses,Kharif,2019-01-01,8.73
+Other Pulses,Kharif,2020-01-01,7.99
+Other Pulses,Kharif,2021-01-01,6.69
+Other Pulses,Kharif,2022-01-01,8.24
+Other Pulses,Kharif,2023-01-01,7.99
+Other Pulses,Rabi,2013-01-01,16.26
+Other Pulses,Rabi,2014-01-01,17.95
+Other Pulses,Rabi,2015-01-01,14.7
+Other Pulses,Rabi,2016-01-01,17.68
+Other Pulses,Rabi,2017-01-01,17.78
+Other Pulses,Rabi,2018-01-01,14.5
+Other Pulses,Rabi,2019-01-01,14.89
+Other Pulses,Rabi,2020-01-01,16.28
+Other Pulses,Rabi,2021-01-01,16.58
+Other Pulses,Rabi,2022-01-01,17.9
+Other Pulses,Rabi,2023-01-01,17.78
+Total Pulses,Kharif,2013-01-01,59.95
+Total Pulses,Kharif,2014-01-01,57.31
+Total Pulses,Kharif,2015-01-01,55.3
+Total Pulses,Kharif,2016-01-01,95.82
+Total Pulses,Kharif,2017-01-01,93.06
+Total Pulses,Kharif,2018-01-01,80.91
+Total Pulses,Kharif,2019-01-01,79.21
+Total Pulses,Kharif,2020-01-01,86.18
+Total Pulses,Kharif,2021-01-01,82.35
+Total Pulses,Kharif,2022-01-01,76.21
+Total Pulses,Kharif,2023-01-01,69.74
+Total Pulses,Rabi,2013-01-01,132.6
+Total Pulses,Rabi,2014-01-01,114.22
+Total Pulses,Rabi,2015-01-01,107.93
+Total Pulses,Rabi,2016-01-01,135.47
+Total Pulses,Rabi,2017-01-01,161.1
+Total Pulses,Rabi,2018-01-01,139.85
+Total Pulses,Rabi,2019-01-01,151.04
+Total Pulses,Rabi,2020-01-01,168.45
+Total Pulses,Rabi,2021-01-01,190.67
+Total Pulses,Rabi,2022-01-01,163.58
+Total Pulses,Rabi,2023-01-01,151.97
+Total Pulses,Summer,2013-01-01,0
+Total Pulses,Summer,2014-01-01,0
+Total Pulses,Summer,2015-01-01,0
+Total Pulses,Summer,2016-01-01,0
+Total Pulses,Summer,2017-01-01,0
+Total Pulses,Summer,2018-01-01,0
+Total Pulses,Summer,2019-01-01,0
+Total Pulses,Summer,2020-01-01,0
+Total Pulses,Summer,2021-01-01,0
+Total Pulses,Summer,2022-01-01,20.79
+Total Pulses,Summer,2023-01-01,20.75
+Total Food Grains,Kharif,2013-01-01,1271.52
+Total Food Grains,Kharif,2014-01-01,1280.67
+Total Food Grains,Kharif,2015-01-01,1250.92
+Total Food Grains,Kharif,2016-01-01,1383.25
+Total Food Grains,Kharif,2017-01-01,1404.66
+Total Food Grains,Kharif,2018-01-01,1415.16
+Total Food Grains,Kharif,2019-01-01,1438.12
+Total Food Grains,Kharif,2020-01-01,1505.76
+Total Food Grains,Kharif,2021-01-01,1553.64
+Total Food Grains,Kharif,2022-01-01,1557.11
+Total Food Grains,Kharif,2023-01-01,1557.68
+Total Food Grains,Rabi,2013-01-01,1363.52
+Total Food Grains,Rabi,2014-01-01,1239.56
+Total Food Grains,Rabi,2015-01-01,1264.5
+Total Food Grains,Rabi,2016-01-01,1367.84
+Total Food Grains,Rabi,2017-01-01,1445.47
+Total Food Grains,Rabi,2018-01-01,1436.93
+Total Food Grains,Rabi,2019-01-01,1536.92
+Total Food Grains,Rabi,2020-01-01,1601.65
+Total Food Grains,Rabi,2021-01-01,1602.52
+Total Food Grains,Rabi,2022-01-01,1578.41
+Total Food Grains,Rabi,2023-01-01,1600.06
+Total Food Grains,Summer,2013-01-01,0
+Total Food Grains,Summer,2014-01-01,0
+Total Food Grains,Summer,2015-01-01,0
+Total Food Grains,Summer,2016-01-01,0
+Total Food Grains,Summer,2017-01-01,0
+Total Food Grains,Summer,2018-01-01,0
+Total Food Grains,Summer,2019-01-01,0
+Total Food Grains,Summer,2020-01-01,0
+Total Food Grains,Summer,2021-01-01,0
+Total Food Grains,Summer,2022-01-01,161.35
+Total Food Grains,Summer,2023-01-01,165.24
+Groundnut,Kharif,2013-01-01,80.58
+Groundnut,Kharif,2014-01-01,59.3
+Groundnut,Kharif,2015-01-01,53.68
+Groundnut,Kharif,2016-01-01,60.48
+Groundnut,Kharif,2017-01-01,75.95
+Groundnut,Kharif,2018-01-01,53.87
+Groundnut,Kharif,2019-01-01,83.89
+Groundnut,Kharif,2020-01-01,85.28
+Groundnut,Kharif,2021-01-01,84.34
+Groundnut,Kharif,2022-01-01,85.62
+Groundnut,Kharif,2023-01-01,86.6
+Groundnut,Rabi,2013-01-01,16.56
+Groundnut,Rabi,2014-01-01,14.71
+Groundnut,Rabi,2015-01-01,13.66
+Groundnut,Rabi,2016-01-01,14.14
+Groundnut,Rabi,2017-01-01,16.57
+Groundnut,Rabi,2018-01-01,13.4
+Groundnut,Rabi,2019-01-01,15.63
+Groundnut,Rabi,2020-01-01,17.16
+Groundnut,Rabi,2021-01-01,17.01
+Groundnut,Rabi,2022-01-01,11.03
+Groundnut,Rabi,2023-01-01,7.55
+Groundnut,Summer,2013-01-01,0
+Groundnut,Summer,2014-01-01,0
+Groundnut,Summer,2015-01-01,0
+Groundnut,Summer,2016-01-01,0
+Groundnut,Summer,2017-01-01,0
+Groundnut,Summer,2018-01-01,0
+Groundnut,Summer,2019-01-01,0
+Groundnut,Summer,2020-01-01,0
+Groundnut,Summer,2021-01-01,0
+Groundnut,Summer,2022-01-01,6.32
+Groundnut,Summer,2023-01-01,7.65
+Castorseed,Kharif,2013-01-01,17.27
+Castorseed,Kharif,2014-01-01,18.7
+Castorseed,Kharif,2015-01-01,17.52
+Castorseed,Kharif,2016-01-01,13.76
+Castorseed,Kharif,2017-01-01,15.68
+Castorseed,Kharif,2018-01-01,11.97
+Castorseed,Kharif,2019-01-01,18.42
+Castorseed,Kharif,2020-01-01,16.47
+Castorseed,Kharif,2021-01-01,16.19
+Castorseed,Kharif,2022-01-01,19.8
+Castorseed,Kharif,2023-01-01,19.59
+Sesamum,Kharif,2013-01-01,7.15
+Sesamum,Kharif,2014-01-01,8.28
+Sesamum,Kharif,2015-01-01,8.5
+Sesamum,Kharif,2016-01-01,7.47
+Sesamum,Kharif,2017-01-01,7.55
+Sesamum,Kharif,2018-01-01,6.89
+Sesamum,Kharif,2019-01-01,6.57
+Sesamum,Kharif,2020-01-01,8.17
+Sesamum,Kharif,2021-01-01,7.89
+Sesamum,Kharif,2022-01-01,3.92
+Sesamum,Kharif,2023-01-01,3.95
+Sesamum,Rabi,2013-01-01,0
+Sesamum,Rabi,2014-01-01,0
+Sesamum,Rabi,2015-01-01,0
+Sesamum,Rabi,2016-01-01,0
+Sesamum,Rabi,2017-01-01,0
+Sesamum,Rabi,2018-01-01,0
+Sesamum,Rabi,2019-01-01,0
+Sesamum,Rabi,2020-01-01,0
+Sesamum,Rabi,2021-01-01,0
+Sesamum,Rabi,2022-01-01,0.31
+Sesamum,Rabi,2023-01-01,0.28
+Sesamum,Summer,2013-01-01,0
+Sesamum,Summer,2014-01-01,0
+Sesamum,Summer,2015-01-01,0
+Sesamum,Summer,2016-01-01,0
+Sesamum,Summer,2017-01-01,0
+Sesamum,Summer,2018-01-01,0
+Sesamum,Summer,2019-01-01,0
+Sesamum,Summer,2020-01-01,0
+Sesamum,Summer,2021-01-01,0
+Sesamum,Summer,2022-01-01,3.79
+Sesamum,Summer,2023-01-01,4.24
+Nigerseed,Kharif,2013-01-01,0.98
+Nigerseed,Kharif,2014-01-01,0.76
+Nigerseed,Kharif,2015-01-01,0.74
+Nigerseed,Kharif,2016-01-01,0.85
+Nigerseed,Kharif,2017-01-01,0.7
+Nigerseed,Kharif,2018-01-01,0.45
+Nigerseed,Kharif,2019-01-01,0.41
+Nigerseed,Kharif,2020-01-01,0.42
+Nigerseed,Kharif,2021-01-01,0.33
+Nigerseed,Kharif,2022-01-01,0.29
+Nigerseed,Kharif,2023-01-01,0.27
+Soybean,Kharif,2013-01-01,118.61
+Soybean,Kharif,2014-01-01,103.74
+Soybean,Kharif,2015-01-01,85.7
+Soybean,Kharif,2016-01-01,131.59
+Soybean,Kharif,2017-01-01,109.33
+Soybean,Kharif,2018-01-01,132.68
+Soybean,Kharif,2019-01-01,112.26
+Soybean,Kharif,2020-01-01,126.1
+Soybean,Kharif,2021-01-01,129.87
+Soybean,Kharif,2022-01-01,149.85
+Soybean,Kharif,2023-01-01,130.62
+Sunflower,Kharif,2013-01-01,1.54
+Sunflower,Kharif,2014-01-01,1.11
+Sunflower,Kharif,2015-01-01,0.66
+Sunflower,Kharif,2016-01-01,0.98
+Sunflower,Kharif,2017-01-01,0.85
+Sunflower,Kharif,2018-01-01,0.9
+Sunflower,Kharif,2019-01-01,0.92
+Sunflower,Kharif,2020-01-01,0.78
+Sunflower,Kharif,2021-01-01,1.11
+Sunflower,Kharif,2022-01-01,2.04
+Sunflower,Kharif,2023-01-01,0.6
+Sunflower,Rabi,2013-01-01,3.5
+Sunflower,Rabi,2014-01-01,3.23
+Sunflower,Rabi,2015-01-01,2.3
+Sunflower,Rabi,2016-01-01,1.53
+Sunflower,Rabi,2017-01-01,1.37
+Sunflower,Rabi,2018-01-01,1.26
+Sunflower,Rabi,2019-01-01,1.21
+Sunflower,Rabi,2020-01-01,1.51
+Sunflower,Rabi,2021-01-01,1.39
+Sunflower,Rabi,2022-01-01,1.17
+Sunflower,Rabi,2023-01-01,0.74
+Sunflower,Summer,2013-01-01,0
+Sunflower,Summer,2014-01-01,0
+Sunflower,Summer,2015-01-01,0
+Sunflower,Summer,2016-01-01,0
+Sunflower,Summer,2017-01-01,0
+Sunflower,Summer,2018-01-01,0
+Sunflower,Summer,2019-01-01,0
+Sunflower,Summer,2020-01-01,0
+Sunflower,Summer,2021-01-01,0
+Sunflower,Summer,2022-01-01,0.43
+Sunflower,Summer,2023-01-01,0.39
+Rapeseed & Mustard,Rabi,2013-01-01,78.77
+Rapeseed & Mustard,Rabi,2014-01-01,62.82
+Rapeseed & Mustard,Rabi,2015-01-01,67.97
+Rapeseed & Mustard,Rabi,2016-01-01,79.17
+Rapeseed & Mustard,Rabi,2017-01-01,84.3
+Rapeseed & Mustard,Rabi,2018-01-01,92.56
+Rapeseed & Mustard,Rabi,2019-01-01,91.24
+Rapeseed & Mustard,Rabi,2020-01-01,102.1
+Rapeseed & Mustard,Rabi,2021-01-01,119.63
+Rapeseed & Mustard,Rabi,2022-01-01,126.43
+Rapeseed & Mustard,Rabi,2023-01-01,132.59
+Linseed,Rabi,2013-01-01,1.42
+Linseed,Rabi,2014-01-01,1.55
+Linseed,Rabi,2015-01-01,1.25
+Linseed,Rabi,2016-01-01,1.84
+Linseed,Rabi,2017-01-01,1.74
+Linseed,Rabi,2018-01-01,0.99
+Linseed,Rabi,2019-01-01,1.21
+Linseed,Rabi,2020-01-01,1.11
+Linseed,Rabi,2021-01-01,1.26
+Linseed,Rabi,2022-01-01,1.67
+Linseed,Rabi,2023-01-01,1.13
+Safflower,Rabi,2013-01-01,1.13
+Safflower,Rabi,2014-01-01,0.9
+Safflower,Rabi,2015-01-01,0.53
+Safflower,Rabi,2016-01-01,0.94
+Safflower,Rabi,2017-01-01,0.55
+Safflower,Rabi,2018-01-01,0.25
+Safflower,Rabi,2019-01-01,0.44
+Safflower,Rabi,2020-01-01,0.36
+Safflower,Rabi,2021-01-01,0.61
+Safflower,Rabi,2022-01-01,0.9
+Safflower,Rabi,2023-01-01,0.5
+Total Oil Seeds,Kharif,2013-01-01,226.12
+Total Oil Seeds,Kharif,2014-01-01,191.89
+Total Oil Seeds,Kharif,2015-01-01,166.8
+Total Oil Seeds,Kharif,2016-01-01,215.13
+Total Oil Seeds,Kharif,2017-01-01,210.06
+Total Oil Seeds,Kharif,2018-01-01,206.76
+Total Oil Seeds,Kharif,2019-01-01,222.47
+Total Oil Seeds,Kharif,2020-01-01,237.23
+Total Oil Seeds,Kharif,2021-01-01,239.72
+Total Oil Seeds,Kharif,2022-01-01,261.5
+Total Oil Seeds,Kharif,2023-01-01,241.62
+Total Oil Seeds,Rabi,2013-01-01,101.38
+Total Oil Seeds,Rabi,2014-01-01,83.22
+Total Oil Seeds,Rabi,2015-01-01,85.71
+Total Oil Seeds,Rabi,2016-01-01,97.62
+Total Oil Seeds,Rabi,2017-01-01,104.53
+Total Oil Seeds,Rabi,2018-01-01,108.46
+Total Oil Seeds,Rabi,2019-01-01,109.72
+Total Oil Seeds,Rabi,2020-01-01,122.24
+Total Oil Seeds,Rabi,2021-01-01,139.91
+Total Oil Seeds,Rabi,2022-01-01,141.51
+Total Oil Seeds,Rabi,2023-01-01,142.78
+Total Oil Seeds,Summer,2013-01-01,0
+Total Oil Seeds,Summer,2014-01-01,0
+Total Oil Seeds,Summer,2015-01-01,0
+Total Oil Seeds,Summer,2016-01-01,0
+Total Oil Seeds,Summer,2017-01-01,0
+Total Oil Seeds,Summer,2018-01-01,0
+Total Oil Seeds,Summer,2019-01-01,0
+Total Oil Seeds,Summer,2020-01-01,0
+Total Oil Seeds,Summer,2021-01-01,0
+Total Oil Seeds,Summer,2022-01-01,10.54
+Total Oil Seeds,Summer,2023-01-01,12.29
+Sugarcane,Kharif,2013-01-01,3521.42
+Sugarcane,Kharif,2014-01-01,3623.33
+Sugarcane,Kharif,2015-01-01,3484.48
+Sugarcane,Kharif,2016-01-01,3060.69
+Sugarcane,Kharif,2017-01-01,3799.05
+Sugarcane,Kharif,2018-01-01,4054.16
+Sugarcane,Kharif,2019-01-01,3705
+Sugarcane,Kharif,2020-01-01,4053.99
+Sugarcane,Kharif,2021-01-01,4394.25
+Sugarcane,Kharif,2022-01-01,4905.33
+Sugarcane,Kharif,2023-01-01,4531.58
+Cotton,Kharif,2013-01-01,61.0334
+Cotton,Kharif,2014-01-01,59.1685
+Cotton,Kharif,2015-01-01,51.0085
+Cotton,Kharif,2016-01-01,55.3809
+Cotton,Kharif,2017-01-01,55.7685
+Cotton,Kharif,2018-01-01,47.6714
+Cotton,Kharif,2019-01-01,61.3105
+Cotton,Kharif,2020-01-01,59.9216
+Cotton,Kharif,2021-01-01,52.9006
+Cotton,Kharif,2022-01-01,57.222
+Cotton,Kharif,2023-01-01,55.2874
+Jute,Kharif,2013-01-01,19.9494
+Jute,Kharif,2014-01-01,19.1124
+Jute,Kharif,2015-01-01,17.892
+Jute,Kharif,2016-01-01,18.7776
+Jute,Kharif,2017-01-01,17.2638
+Jute,Kharif,2018-01-01,17.0946
+Jute,Kharif,2019-01-01,17.0028
+Jute,Kharif,2020-01-01,16.1154
+Jute,Kharif,2021-01-01,17.5716
+Jute,Kharif,2022-01-01,16.1802
+Jute,Kharif,2023-01-01,16.6536
+Mesta,Kharif,2013-01-01,1.0926
+Mesta,Kharif,2014-01-01,0.9144
+Mesta,Kharif,2015-01-01,1.0494
+Mesta,Kharif,2016-01-01,0.954
+Mesta,Kharif,2017-01-01,0.7956
+Mesta,Kharif,2018-01-01,0.5814
+Mesta,Kharif,2019-01-01,0.7758
+Mesta,Kharif,2020-01-01,0.7236
+Mesta,Kharif,2021-01-01,0.6966
+Mesta,Kharif,2022-01-01,0.7254
+Mesta,Kharif,2023-01-01,0.7938
+Jute & Mesta,Kharif,2013-01-01,21.042
+Jute & Mesta,Kharif,2014-01-01,20.0268
+Jute & Mesta,Kharif,2015-01-01,18.9432
+Jute & Mesta,Kharif,2016-01-01,19.7316
+Jute & Mesta,Kharif,2017-01-01,18.0594
+Jute & Mesta,Kharif,2018-01-01,17.676
+Jute & Mesta,Kharif,2019-01-01,17.7786
+Jute & Mesta,Kharif,2020-01-01,16.8372
+Jute & Mesta,Kharif,2021-01-01,18.2682
+Jute & Mesta,Kharif,2022-01-01,16.9056
+Jute & Mesta,Kharif,2023-01-01,17.4456
