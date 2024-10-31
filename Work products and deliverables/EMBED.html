@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Dashboards</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px 0; 
+            padding: 0 100px;
+            background: linear-gradient(to bottom right, azure, lightsteelblue);
+            color: black;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 75vh;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 28px;
+            margin-bottom: 10px;
+            text-align: center;
+            transition: color 0.3s ease;
+        }
+
+        h1:hover {
+            color: navy;
+        }
+
+        .button-container {
+            display: flex; /* Flex container for buttons */
+            gap: 50px; /* Space between buttons */
+            margin-bottom: 19px; /* Space below button container */
+        }
+
+        button {
+            padding: 10px 20px;
+            font-weight: bold;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: SteelBlue;
+            color: white;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #005b4f;
+        }
+
+        iframe {
+            width: 100%;
+            max-width: 1350px;
+            height: 75vh;
+            border: none;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+            border-radius: 8px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        iframe:hover {
+            box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        @media (max-width: 600px) {
+            iframe {
+                height: 60vh;
+            }
+        }
+
+        .hidden {
+            display: none; /* Hide elements with this class */
+        }
+    </style>
+</head>
+<body>
+    <h1>Embedded Dashboards</h1>
+    <div class="button-container">
+        <button onclick="showSuperset()">Show Superset Dashboard</button>
+        <button onclick="showMetabase()">Show Metabase Dashboard</button>
+    </div>
+    
+    <iframe id="superset" src="http://localhost:8080/superset/dashboard/p/QY4E3a4y0RL/" frameborder="0"></iframe>
+    <iframe id="metabase" class="hidden" src="http://localhost:3000/public/dashboard/88c3608c-95bf-41fa-b9e9-af798e6d5543" frameborder="0"></iframe>
+
+    <script>
+        function showSuperset() {
+            document.getElementById('superset').classList.remove('hidden');
+            document.getElementById('metabase').classList.add('hidden');
+        }
+
+        function showMetabase() {
+            document.getElementById('metabase').classList.remove('hidden');
+            document.getElementById('superset').classList.add('hidden');
+        }
+    </script>
+</body>
+</html>
